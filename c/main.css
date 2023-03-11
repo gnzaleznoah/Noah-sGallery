@@ -11,8 +11,8 @@ font-family: 'Merriweather Sans', sans-serif;
 height:100vh;
 }
 header{
-  background-color:#1615174b;
-  margin:auto;
+  background-color:#9a979d7f;
+  margin:0 auto 2rem auto;
   padding:1ch 2rem;
   width:80%;
 }
