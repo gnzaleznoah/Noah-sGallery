@@ -10,9 +10,21 @@ background-repeat:no-repeat;
 font-family: 'Merriweather Sans', sans-serif;
 height:100vh;
 }
+header{
+  background-color:#1615174b;
+  margin:auto;
+  padding:1ch 2rem;
+  width:80%;
+}
 h1{
   font-family: 'Tangerine', cursive;
   font-size:3.5rem;
+  font-weight:bolder;
+  margin-bottom:0;
+}
+h2{
+  font-weight:lighter;
+  margin:1.5ch 0 1ch 0;
 }
 section {
   width: 80%;
