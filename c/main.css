@@ -92,6 +92,10 @@ figcaption{
   padding:15px;
   font-size:1.25rem;
 }
+.follow a{
+  color:#816CBA;
+  text-decoration:none;
+}
 
 @media screen and(min-width:600px){
   
